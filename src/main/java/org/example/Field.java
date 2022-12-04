@@ -1,5 +1,6 @@
 package org.example;
 
+// Класс Игрового поля
 public class Field {
 
     Integer getHeight() {

@@ -1,5 +1,5 @@
 package org.example;
-
+// Расширение класса игрок - бот
 public class Bot extends Player {
     private Integer skill;
 

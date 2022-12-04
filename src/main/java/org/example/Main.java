@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.Scanner;
-
+// Основной класс
 public class Main {
     public static void main(String[] args) {
         Integer command = 0;

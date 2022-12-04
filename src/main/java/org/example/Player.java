@@ -1,5 +1,6 @@
 package org.example;
 
+// Абстрактный класс игрока
 public abstract class Player {
     protected String color;
 

@@ -1,6 +1,6 @@
 package org.example;
-
 import java.util.Scanner;
+// Расширение класса игрок - человек
 public class Person extends Player {
 
     Boolean motion(Field field) {
